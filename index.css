@@ -135,3 +135,15 @@ p{
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
+
+.bg-custom {
+  background-color: #06ad6c
+}
+
+.bg-custom1{
+  background-color: #e85838
+}
+
+.bg-custom2{
+  background-color: #f895cc
+}
