@@ -107,6 +107,7 @@ p{
  */
 .blog-post {
   margin-bottom: 4rem;
+  border-bottom: 1px solid #bbbcbf
 }
 .blog-post-title {
   margin-bottom: .25rem;
