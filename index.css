@@ -2,7 +2,9 @@
 
 .blog-header {
   line-height: 1;
-  border-bottom: 1px solid #e5e5e5;
+
+  border:solid 10px blue;
+
 }
 
 .blog-header-logo {
@@ -15,7 +17,9 @@
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "arial black", Georgia, "Times New Roman", serif;
+  font-family: "arial black", Georgia, "Times New Roman", serif
+  border:solid 10px blue;
+
 }
 
 .display-4 {
